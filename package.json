@@ -1,5 +1,5 @@
 {
-  "name": "grunt-concurrent",
+  "name": "grunt-concurrent-pinterest",
   "version": "0.4.2",
   "description": "Run grunt tasks concurrently",
   "keywords": [
@@ -10,16 +10,16 @@
     "optimize",
     "speed"
   ],
-  "homepage": "https://github.com/sindresorhus/grunt-concurrent",
-  "bugs": "https://github.com/sindresorhus/grunt-concurrent/issues",
+  "homepage": "https://github.com/chrisdanford/grunt-concurrent",
+  "bugs": "https://github.com/chrisdanford/grunt-concurrent/issues",
   "author": {
-    "name": "Sindre Sorhus",
-    "email": "sindresorhus@gmail.com",
-    "url": "http://sindresorhus.com"
+    "name": "Chris Danford",
+    "email": "chrisdanford@gmail.com",
+    "url": "http://www.chrisdanford.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/sindresorhus/grunt-concurrent.git"
+    "url": "git://github.com/chrisdanford/grunt-concurrent.git"
   },
   "scripts": {
     "test": "npm install nodemon -g && grunt"
